@@ -37,7 +37,7 @@ It contains **1,200 student records and 36 columns**, including academic, behavi
 ```text
 machine-learning-tp4/
 │
-├── ML_Practical_Session_4_Solution_with_Markdowns.ipynb
+├── TP4_Solution.ipynb
 ├── hybrid_student_performance_1200.csv
 └── README.md
 ```
